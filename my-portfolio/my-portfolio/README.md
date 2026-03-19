@@ -2,7 +2,5 @@ Student name: Gulnaz Syeda
 
 Skills: Learning DevOps!
 
-Goals: Become DevOps expert!
-
-
+Goals: Master Git and GitHub!
 
