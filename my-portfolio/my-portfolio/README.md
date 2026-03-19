@@ -1,6 +1,14 @@
-Student name: Gulnaz Syeda
+\# My Portfolio
 
-Skills: Learning DevOps!
+
+
+\## Name
+
+Gulnaz Syed
+
+
+
+\## Goals
 
 Goals: Master Git and GitHub!
 
