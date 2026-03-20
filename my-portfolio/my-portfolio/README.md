@@ -10,5 +10,5 @@ Gulnaz Syed
 
 \## Goals
 
-Goals: Update main version
+Goals: Master Git for DevOps!
 
