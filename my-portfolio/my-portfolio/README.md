@@ -10,5 +10,5 @@ Gulnaz Syed
 
 \## Goals
 
-Goals: Main version
+Goals: Branch version
 
