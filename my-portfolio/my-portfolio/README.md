@@ -10,5 +10,5 @@ Gulnaz Syed
 
 \## Goals
 
-Goals: Branch version
+Goals: Master Git for DevOps!
 
