@@ -10,5 +10,5 @@ Gulnaz Syed
 
 \## Goals
 
-Goals: Master Git and GitHub!
+Goals: Main version
 
